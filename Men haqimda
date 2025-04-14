@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Suhrob Kuchkinov Baxtiyorovich haqida batafsil ma'lumotlar">
+  <meta name="keywords" content="Suhrob Kuchkinov, Elektrik, IT, Moskva, xizmatlar, portfolio">
+  <meta name="author" content="Suhrob Kuchkinov Baxtiyorovich">
+  <title>Suhrob Kuchkinov Portfolio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      width: 90%;
+      max-width: 800px;
+      margin: 20px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+    h2 {
+      color: #007BFF;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #222;
+      color: #fff;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>SHAXSIY MA’LUMOTLAR</h1>
+    <p><strong>To‘liq ismi:</strong> Suhrob Baxtiyorovich Kuchkinov</p>
+    <p><strong>Tug‘ilgan sana:</strong> 29-fevral, 2004-yil</p>
+    <p><strong>Yosh:</strong> 21 yosh</p>
+    <p><strong>Jinsi:</strong> Erkak</p>
+    <p><strong>Millati:</strong> O‘zbek</p>
+    <p><strong>Fuqaroligi:</strong> O‘zbekiston Respublikasi</p>
+    <p><strong>Oilaviy holati:</strong> Unashtirilgan</p>
+    <p><strong>Yashash manzili:</strong> Rossiya</p>
+    <p><strong>Telefon raqami:</strong> +7 900 150 59 77</p>
+    <p><strong>Telegram:</strong> @Kuchk1nov</p>
+    <p><strong>Instagram:</strong> @Kuchk1nov_s</p>
+    <p><strong>Email:</strong> sheykx43@gmail.com</p>
+
+    <h2>TA‘LIMI</h2>
+    <p><strong>Umumta‘lim maktablari:</strong> 63-, 41-, 21-sonli maktablar</p>
+    <p><strong>Kolledj:</strong> Qumqo‘rg‘on tumani, 2-sonli kasb-hunar kolleji</p>
+    <p><strong>Oliy ta‘lim:</strong> O‘qimagan</p>
+    <p><strong>Ma‘lumot darajasi:</strong> O‘rta maxsus</p>
+
+    <h2>ISHLASH TAJRIBASI</h2>
+    <p><strong>Antteq (2022–2025)</strong> - Elektrik</p>
+    <p>Kuzatuv kameralar, internet va elektr tarmoqlarini o‘rnatish va sozlash</p>
+    <p><strong>Weer (2024–2025)</strong> - Elektrik</p>
+    <p>IT tizimlari, videokuzatuv va elektr xizmatlarini amalga oshirish</p>
+
+    <h2>KO‘NIKMALAR VA BILIMLAR</h2>
+    <ul>
+      <li>Elektr tarmoqlarini o‘rnatish, sozlash va ta‘mirlash</li>
+      <li>Qurilish jarayonidagi elektr ishlari</li>
+      <li>Chiroq va yoritish tizimlarini o‘rnatish</li>
+      <li>Zaryadlash stansiyalari va avariya xizmatlari</li>
+      <li>Internet va Wi-Fi tarmoqlarini o‘rnatish, kengaytirish</li>
+    </ul>
+    <p><strong>Tillar:</strong></p>
+    <ul>
+      <li>O‘zbek (ona tili)</li>
+      <li>Rus (erkin)</li>
+      <li>Turk (o‘rta daraja)</li>
+    </ul>
+
+    <h2>LOYIHALAR</h2>
+    <ul>
+      <li>JK WillTowers va Weer binosiga 40 ta kuzatuv kamerasi o‘rnatish</li>
+      <li>Internet tarmoqlarini kengaytirish (Wi-Fi zonalar)</li>
+      <li>Turar-joy binolarida elektr va yoritish tizimlarini o‘rnatish (2023–2025)</li>
+    </ul>
+
+    <h2>QO‘SHIMCHA MA‘LUMOTLAR</h2>
+    <p><strong>Qiziqishlar:</strong> Sport, musiqa, kitob o‘qish, sayohat, texnika, blog yuritish</p>
+    <p><strong>Shaxsiy sifatlar:</strong> Mas‘uliyatli, halol, tez o‘rganadi, jamoada ishlay oladi</p>
+    <p><strong>Hayotdagi maqsad:</strong> O‘z kasbimda professional darajaga chiqish</p>
+    <p><strong>Shior:</strong> Жизнь без испытаний — это не жизнь</p>
+    <p><strong>Telegram xizmat sahifasi:</strong> @Elektirikchi</p>
+    <p><strong>Portfolio (Instagram):</strong> @Kuchk1nov_s</p>
+
+    <h2>TO‘LOV USULLARI / PLASTIK KARTALAR</h2>
+    <ul>
+      <li><strong>Alfa Bank:</strong> 2200 1539 9948 5585</li>
+      <li><strong>Tinkoff MasterCard:</strong> 5280 4137 5608 8238</li>
+      <li><strong>Karta egasi:</strong> Suhrob Baxtiyorovich Kuchkinov</li>
+    </ul>
+    <p><em>Izoh: mijozlar uchun turli to‘lov usullari mavjud. Karta raqami faqat xizmatlar uchun ishlatiladi va xavfsiz tarzda amalga oshiriladi.</em></p>
+
+    <h2>Qo‘shimcha Telegram sahifalari</h2>
+    <ul>
+      <li>@manosiz_hayol – Hayot, ma‘naviyat va fikrlar kanali</li>
+      <li>@oneweer – Shaxsiy yoki biznesga oid qo‘shimcha akkaunt</li>
+      <li>@Elektirikchi – Elektr va IT xizmatlari sahifasi</li>
+    </ul>
+  </div>
+  <footer>
+    <p>&copy; 2025 Suhrob Kuchkinov. Barcha huquqlar himoyalangan.</p>
+  </footer>
+</body>
+</html>
